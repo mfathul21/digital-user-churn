@@ -1,9 +1,11 @@
-### Studi Kasus: Optimalisasi Penjualan PT Sejahtera Bersama
+## Studi Kasus: Optimalisasi Penjualan PT Sejahtera Bersama
 
 **Latar Belakang:**
+
 PT Sejahtera Bersama adalah sebuah perusahaan yang bergerak di sektor teknologi dan edukasi. Perusahaan ini telah mengumpulkan data transaksi penjualan yang detail dan komprehensif. Data ini mencakup informasi mengenai total penjualan, penjualan berdasarkan kategori produk, penjualan berdasarkan kota, serta produk terlaris baik berdasarkan penjualan maupun jumlah unit yang terjual. Sebagai Business Intelligence (BI) Analyst di PT Sejahtera Bersama, tugas Anda adalah menganalisis data tersebut dan memberikan rekomendasi strategis untuk mempertahankan dan meningkatkan penjualan.
 
 **Tujuan Proyek:**
+
 Proyek ini bertujuan untuk menggunakan data transaksi penjualan yang ada untuk:
 1. Memahami tren penjualan dan perilaku pelanggan.
 2. Mengidentifikasi area dan produk dengan kinerja tinggi serta yang perlu ditingkatkan.
@@ -40,4 +42,5 @@ Lihat lebih detail di [Dashboard Penjualan PT Sejahtera Bersama](https://lookers
    - **Kategori Produk Lain:** Lakukan analisis lebih lanjut pada kategori produk yang kurang diminati. Cari tahu apakah ada faktor tertentu yang mempengaruhi penjualan yang rendah dan kembangkan strategi untuk meningkatkan minat pelanggan terhadap kategori tersebut.
 
 **Kesimpulan:**
+
 Dengan memanfaatkan data penjualan yang ada dan menerapkan rekomendasi strategis di atas, PT Sejahtera Bersama dapat mempertahankan penjualan yang ada dan bahkan meningkatkan penjualan secara signifikan. Fokus pada pengelolaan produk terlaris, perluasan penawaran konten digital, strategi pemasaran berbasis lokasi, program loyalitas pelanggan, serta pengembangan produk yang terukur dapat membantu perusahaan mencapai tujuan bisnisnya dengan lebih efektif.
