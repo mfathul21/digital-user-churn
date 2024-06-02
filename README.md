@@ -2,7 +2,7 @@
 
 **Latar Belakang:**
 
-PT Sejahtera Bersama adalah sebuah perusahaan yang bergerak di sektor teknologi dan edukasi. Perusahaan ini telah mengumpulkan data transaksi penjualan yang detail dan komprehensif. Data ini mencakup informasi mengenai total penjualan, penjualan berdasarkan kategori produk, penjualan berdasarkan kota, serta produk terlaris baik berdasarkan penjualan maupun jumlah unit yang terjual. Sebagai Business Intelligence (BI) Analyst di PT Sejahtera Bersama, tugas Anda adalah menganalisis data tersebut dan memberikan rekomendasi strategis untuk mempertahankan dan meningkatkan penjualan.
+PT Sejahtera Bersama adalah sebuah perusahaan yang bergerak di sektor teknologi dan edukasi. Perusahaan ini telah mengumpulkan data transaksi penjualan yang detail dan komprehensif. Data ini mencakup informasi mengenai pelanggan, pesanan, produk, dan kategori produk. Sebagai Business Intelligence (BI) Analyst di PT Sejahtera Bersama, tugas Anda adalah menganalisis data tersebut dan memberikan rekomendasi strategis untuk mempertahankan dan meningkatkan penjualan.
 
 **Tujuan Proyek:**
 
