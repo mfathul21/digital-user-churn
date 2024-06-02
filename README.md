@@ -38,9 +38,6 @@ Lihat lebih detail di [Dashboard Penjualan PT Sejahtera Bersama](https://lookers
 4. **Program Loyalitas Pelanggan:**
    - **Tingkatkan Retensi Pelanggan:** Kembangkan program loyalitas untuk pelanggan setia dengan memberikan insentif seperti diskon eksklusif, penawaran khusus, atau akses awal ke produk baru. Program loyalitas dapat meningkatkan retensi pelanggan dan mendorong pembelian berulang.
 
-5. **Analisis dan Pengembangan Produk:**
-   - **Kategori Produk Lain:** Lakukan analisis lebih lanjut pada kategori produk yang kurang diminati. Cari tahu apakah ada faktor tertentu yang mempengaruhi penjualan yang rendah dan kembangkan strategi untuk meningkatkan minat pelanggan terhadap kategori tersebut.
-
 **Kesimpulan:**
 
 Dengan memanfaatkan data penjualan yang ada dan menerapkan rekomendasi strategis di atas, PT Sejahtera Bersama dapat mempertahankan penjualan yang ada dan bahkan meningkatkan penjualan secara signifikan. Fokus pada pengelolaan produk terlaris, perluasan penawaran konten digital, strategi pemasaran berbasis lokasi, program loyalitas pelanggan, serta pengembangan produk yang terukur dapat membantu perusahaan mencapai tujuan bisnisnya dengan lebih efektif.
